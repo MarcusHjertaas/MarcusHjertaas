@@ -10,6 +10,9 @@
 
 - 📫 How to reach me **marcus.hjertaas@gmail.com**
 
+## Projects
+Here is my portfolio containing my [Projects](https://github.com/MarcusHjertaas/Programming-Portfolio)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcus-hjertaas-872860265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus hjertaas" height="30" width="40" /></a>
