@@ -4,14 +4,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Expanding mye Python knowledge**
+- 🔭 I’m currently working on **Expanding my Python knowledge**
 
 - 🌱 I’m currently learning **Linear Optimization**
 
 - 📫 How to reach me **marcus.hjertaas@gmail.com**
 
 ### Projects
-Here is my portfolio containing my [Projects](https://github.com/MarcusHjertaas/Programming-Portfolio)
+🗺 Here is my portfolio containing my [Projects](https://github.com/MarcusHjertaas/Programming-Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
