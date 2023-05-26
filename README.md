@@ -11,7 +11,7 @@
 - 📫 How to reach me **marcus.hjertaas@gmail.com**
 
 <h3 align="left">Projects:</h3>
-Here is my portfolio containing my [Projects](https://github.com/MarcusHjertaas/Programming-Portfolio)
+<h4 align="Left"> Here is my portfolio containing my [Projects] <a href="https://github.com/MarcusHjertaas/Programming-Portfolio"</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
