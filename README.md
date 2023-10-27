@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://camo.githubusercontent.com/c04834991bd724271632b1aa569fd5ae9564b2c12fdea274f8d577695c8f835d/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958.gif)
 <h1 align="center">Hi 👋, I'm Marcus Hjertaas</h1>
 <h3 align="center">A student from Norway, within the field of business analytics. Passionate about expanding my data science and analytical skills. This page contains projects from both private projects as well as from university.</h3>
 
