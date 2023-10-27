@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Expanding my Python knowledge**
+- 🔭 I’m currently working on **Expanding my analytical skills and Python knowledge**
 
-- 🌱 I’m currently learning **Linear Optimization**
+- 🌱 I’m currently learning **GIS and mathematical computation in python**
 
 - 📫 How to reach me **marcus.hjertaas@gmail.com**
 
