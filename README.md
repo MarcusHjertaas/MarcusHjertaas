@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Expanding my analytical skills and Python knowledge**
 
-- 🌱 I’m currently learning **GIS and mathematical computation in python**
+- 🌱 I’m currently learning **Natural Language Processing in python**
 
 - 📫 How to reach me **marcus.hjertaas@gmail.com**
 
